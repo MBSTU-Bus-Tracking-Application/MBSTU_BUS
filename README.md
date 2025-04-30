@@ -53,40 +53,51 @@ This project is developed by a team of 5 passionate CSE students:
 
 
 
-<h3 align="center">🧑‍💻  Our Team   🧑‍💻</h3>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://example.com/rakib.jpg" width="100" alt="Rakib"/><br>
-        <b>Rakib</b><br>
-        Team Leader
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://example.com/tania.jpg" width="100" alt="Shuvo"/><br>
-        <b>Shuvo</b><br>
-        Team Member
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://example.com/arif.jpg" width="100" alt="Habib"/><br>
-        <b>Habib</b><br>
-       Team Member
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://example.com/sajid.jpg" width="100" alt="Rifat"/><br>
-        <b>Rifat</b><br>
-        Team Member
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="" width="100" alt="Dhruba"/><br>
-        <b>Dhruba</b><br>
-       Team Member
-      </td>
-    </tr>
-  </table>
-</p>
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1SrjTqzjadWCotRmXTk00V_2Xvqe-WFiY" alt="TEAM" width="100" height="100" style="vertical-align: middle;"/>
+<br> <h2 style="margin: 0; text-align: center;">Our Team</h2>
+
+
+</div>
+
+
+
+
+<table align="center" border="0">
+ 
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://example.com/rakib.jpg" width="100" alt="Rakib"/><br>
+      <b>Rakib</b><br>
+      Team Leader
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/MBSTU-Bus-Tracking-Application/mbstu_bus2/blob/main/assets/ProfilePic/Shuvo.jpeg" width="100" alt="Shuvo"/><br>
+      <b>Shuvo</b><br>
+      Team Member
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/MBSTU-Bus-Tracking-Application/mbstu_bus2/blob/main/assets/ProfilePic/RIFAT.jpg" width="100" alt="Habib"/><br>
+      <b>Habib</b><br>
+      Team Member
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/MBSTU-Bus-Tracking-Application/mbstu_bus2/blob/main/assets/ProfilePic/RIFAT.jpg" width="100" alt="Rifat"/><br>
+      <b>Rifat</b><br>
+      Team Member
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/MBSTU-Bus-Tracking-Application/mbstu_bus2/blob/main/assets/ProfilePic/Dhruba.jpg" alt="Dhruba" width="100"/><br>
+      <b>Dhruba</b><br>
+      Team Member
+    </td>
+  </tr>
+</table>
+
+
+---
 
 ## 📞 Contact
 
