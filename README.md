@@ -35,7 +35,7 @@ This project is developed by a team of 5 passionate CSE students:
 ## 📁 Project Structure
 
 | Layer        | Technology                      |
-|--------------|----------------------------------|
+|-------------------------------|----------------------------------|
 | Frontend     | Flutter                          |
 | Backend      | Node.js / Express.js               |
 | Real-time    | Socket.IO |
@@ -51,7 +51,9 @@ This project is developed by a team of 5 passionate CSE students:
 
 
 
-<h3 align="center">🚀 Our Team</h3>
+
+
+<h3 align="center">🧑‍💻  Our Team   🧑‍💻</h3>
 
 <p align="center">
   <table align="center">
