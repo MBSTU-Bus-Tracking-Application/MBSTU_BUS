@@ -40,6 +40,7 @@ This project is developed by a team of 5 passionate CSE students:
 | Backend      | Node.js / Express.js               |
 | Real-time    | Socket.IO |
 | Database     | Firebase / MongoDB               |
+|Local Database     | Hive               |
 | Maps         | OpenStreetMap API                  |
 | Hosting      | Firebase Hosting         |
 
