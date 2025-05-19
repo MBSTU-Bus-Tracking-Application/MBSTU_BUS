@@ -9,7 +9,7 @@ A real-time Bus Tracking application developed for MBSTU Students, Teachers and 
 
 - 📍 Real-time GPS tracking of buses  
 - 📅 Bus schedule and route information  
-- 🔐 Login for students , teachers and officers 
+- 🔐 Registration and Login for students , teachers and officers 
 - 🧭 Map view with live location pins and bus stoppage  
 - 📊 Admin dashboard for analytics  
 - 📲 Flutter-based UI
@@ -20,15 +20,16 @@ A real-time Bus Tracking application developed for MBSTU Students, Teachers and 
 ## 👨‍💻 Contributors
 This project is developed by a team of 5 passionate CSE students:
 
-| Name              | Role                          | GitHub Profile                                | LinkedIn Profile                            |
-|-------------------|-------------------------------|------------------------------------------------|---------------------------------------------|
-| Muhammad Rakibul Islam     | Team Leader    | [Rakib-tkg](https://github.com/rakibtkg)    | [Rakib](https://www.linkedin.com/in/rakibul-islam-8372852bb/) |
-| Iftekhar Alam Shuvo  | Team Member         | [Shuvo](https://github.com/SHUVOika)                                    | [Shuvo](https://www.linkedin.com/in/iftekhar-alam-shuvo-4742842bb/)                                |
-| Muhammad Habibur Rahman  | Team Member   | [Himaloy](https://github.com/himaloy007)                                    | [Habib](https://www.linkedin.com/in/habib007/)                                |
-| Princh Mahmud Rifat  | Team Member | [PM RIFAT](https://github.com/PM-RIFAT74328)                                    | [PM RIFAT](https://www.linkedin.com/in/pm-rifat-5ba87a360/)                                |
-| Dhruba Paul | Team Member           | [Dhruba](https://github.com/DHRUBA-NIRO)                                    | [LinkedIn](#)                                |
+| Name                    | Role          | GitHub Profile                                 | LinkedIn Profile                                                                 | Responsibilities                                                                 |
+|------------------------------------------|---------------|------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Muhammad Rakibul Islam**               | Team Leader   | [Rakib-tkg](https://github.com/rakibtkg)        | [Rakib](https://www.linkedin.com/in/rakibul-islam-8372852bb/)                   | Project planning, Flutter UI/UX design,Frontend , OSM Map , Backend (Node.js and Express.js), State management (Provider), Socket communication with Socket.IO, Deployment, Integration |
+| **Iftekhar Alam Shuvo**     | Team Member   | [Shuvo](https://github.com/SHUVOika)            | [Shuvo](https://www.linkedin.com/in/iftekhar-alam-shuvo-4742842bb/)             | Flutter UI/UX design, Frontend                     |
+| **Muhammad Habibur Rahman** | Team Member   | [Himaloy](https://github.com/himaloy007)        | [Habib](https://www.linkedin.com/in/habib007/)                                  | Flutter UI/UX design, Frontend , Firebase integration  ,Form validation, Authentication system                              |
+| **Princh Mahmud Rifat**     | Team Member   | [PM RIFAT](https://github.com/PM-RIFAT74328)    | [PM RIFAT](https://www.linkedin.com/in/pm-rifat-5ba87a360/)                     | Flutter UI/UX design, Frontend ,              |
+| **Dhruba Paul**             | Team Member   | [Dhruba](https://github.com/DHRUBA-NIRO)        | [Dhruba](https://www.linkedin.com/in/dhruba-paul-69342b363/)                                                                    | Flutter UI/UX design, Frontend                              |
 
-> 🎓 Department of CSE, Mawlana Bhashani Science and Technology University (MBSTU) , Santosh, Tangail
+> 🎓 Department of CSE, Mawlana Bhashani Science and Technology University (MBSTU), Santosh, Tangail
+
 
 ---
 
@@ -37,12 +38,12 @@ This project is developed by a team of 5 passionate CSE students:
 | Layer        | Technology                      |
 |-------------------------------|----------------------------------|
 | Frontend     | Flutter                          |
-| Backend      | Node.js / Express.js               |
+| Backend      | Node.js & Express.js               |
 | Real-time    | Socket.IO |
-| Database     | Firebase / MongoDB               |
+| Database     | Firebase & MongoDB               |
 |Local Database     | Hive               |
 | Maps         | OpenStreetMap API                  |
-| Hosting      | Firebase Hosting         |
+| Hosting      | AWS Free Tier        |
 
 ---
 
